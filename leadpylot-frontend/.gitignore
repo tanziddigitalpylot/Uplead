@@ -47,7 +47,7 @@ test.js
 test.json
 
 .env.local
-.env
+
 .env.prod.crm1
 .env.prod.crm2
 .env.prod.crm3
